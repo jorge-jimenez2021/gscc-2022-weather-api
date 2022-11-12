@@ -1,0 +1,24 @@
+{
+  "name": "gssc",
+  "version": "1.0.0",
+  "description": "Weather API for React Workshop for GSSC: 2022",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-jimenez2021/gscc-2022-weather-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-jimenez2021/gscc-2022-weather-api/issues"
+  },
+  "homepage": "https://github.com/jorge-jimenez2021/gscc-2022-weather-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
